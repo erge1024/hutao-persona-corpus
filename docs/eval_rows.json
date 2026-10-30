@@ -1,0 +1,107 @@
+[
+ {
+  "source": "legend_quest",
+  "scene": "第一幕",
+  "line": "不过，我很喜欢这门生意，往生堂也是老字号了，无论有什么需求，都可以说来听听。",
+  "context": "（上文）\n派蒙：葬仪，葬仪…哦！钟离当客卿的那个「往生堂」，不就是专门做这种工作的吗？",
+  "situational": true
+ },
+ {
+  "source": "legend_quest",
+  "scene": "第一幕",
+  "line": "你想想看，冒险家天天翻山越岭，探索秘境，经历各种各样的战斗，难免遇到危险和意外。",
+  "context": "（上文）\n老孟：这种分级就连我都是第一次听说？！",
+  "situational": true
+ },
+ {
+  "source": "legend_quest",
+  "scene": "第一幕",
+  "line": "好了，我们也该重新出发了，我可不想错过新生意。",
+  "context": "（上文）\n派蒙：看来他已经放弃抵抗了。",
+  "situational": true
+ },
+ {
+  "source": "legend_quest",
+  "scene": "第一幕",
+  "line": "你好，有没有兴趣了解一下往生堂的业务呢？",
+  "context": "（上文）\n木木：啊，你是谁？长话短说吧，我现在很忙。",
+  "situational": true
+ },
+ {
+  "source": "legend_quest",
+  "scene": "第一幕",
+  "line": "嗯？我要这种能力干什么，我又不是医生。",
+  "context": "（上文）\n派蒙：那你为什么不早说啊！我还以为你真的有超能力，可以看到有哪些人…呃，身体不太健康。",
+  "situational": true
+ },
+ {
+  "source": "legend_quest",
+  "scene": "第二幕",
+  "line": "不过，老孟说的这种事是有可能的，因为确实时不时就会有鬼灵在现世游荡。",
+  "context": "（上文）\n老孟：想到孩提时代的友人，有可能变成了恶鬼，这种事怎么能接受啊？",
+  "situational": true
+ },
+ {
+  "source": "legend_quest",
+  "scene": "第二幕",
+  "line": "你们看，就是这样，如果不能把狼哥找出来的话，我说什么老孟都听不进去。",
+  "context": "（上文）\n老孟：可是，这也不能证明狼哥的事没有危险，我真的很不想看到他去到处害人。",
+  "situational": true
+ },
+ {
+  "source": "legend_quest",
+  "scene": "第二幕",
+  "line": "好啊，没问题，交给我吧，找我是找对人了。",
+  "context": "（上文）\n洛成：往生堂擅长解决这种鬼怪和魔神的事吧！能不能帮帮我！我还不想死！",
+  "situational": true
+ },
+ {
+  "source": "legend_quest",
+  "scene": "第四幕",
+  "line": "把看起来合适的东西，想办法放到合适的地方，通常还涉及破坏和元素反应，咚——！",
+  "context": "（上文）\n派蒙：这个词好像不是这么用的…",
+  "situational": true
+ },
+ {
+  "source": "voice",
+  "scene": "起风的时候…",
+  "line": "嗯，真舒服。",
+  "context": "（场景）语音触发：起风的时候…",
+  "situational": true
+ },
+ {
+  "source": "voice",
+  "scene": "关于七七…",
+  "line": "看到七七了吗？快告诉我她在哪，我要把她藏起来，嘿！",
+  "context": "（场景）语音触发：关于七七…",
+  "situational": true
+ },
+ {
+  "source": "voice",
+  "scene": "关于蓝砚…",
+  "line": "蓝姑娘啊…她实力不俗，可不仅仅是「皮毛」这么简单。奇门秘术可真了不得，病气死气都被搬走啦。哎呀，可谓是——世风日上，身强力壮，往生堂的生意越来越难做喽。",
+  "context": "（场景）语音触发：关于蓝砚…",
+  "situational": true
+ },
+ {
+  "source": "voice",
+  "scene": "冲刺开始·其一",
+  "line": "嚯——！",
+  "context": "（场景）语音触发：冲刺开始·其一",
+  "situational": true
+ },
+ {
+  "source": "voice",
+  "scene": "冲刺开始·其二",
+  "line": "走~",
+  "context": "（场景）语音触发：冲刺开始·其二",
+  "situational": true
+ },
+ {
+  "source": "event",
+  "scene": "前往「三碗不过港」",
+  "line": "锅巴要来点什么吗？不用客气，本堂主请你！账记香菱头上就好。",
+  "context": "（场景）\n胡桃：我觉得吧，我这个人已经很能说会道了，没想到跟你一比，还是不够看。\n钟离：堂主何必跟我客气。堂主的口才，整座璃月港有目共睹。\n锅巴：♪~♪~",
+  "situational": true
+ }
+]

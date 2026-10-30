@@ -1,0 +1,30 @@
+# 依赖与交付物，不含体积大的模型/数据，以下全部不进仓库
+vendor/
+wheels/
+models/
+pathB/AnimeGameData*
+pathB/GenshinDialog-main/
+pathB/GenshinTexts-master/
+pathB_wikitext/archon/
+
+# 训练产物（LoRA 权重等）
+out/
+out_v2/
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 临时与日志
+.tmp/
+.ptmp/
+pip*.log
+*.log
+
+# 页面缓存
+*.html
